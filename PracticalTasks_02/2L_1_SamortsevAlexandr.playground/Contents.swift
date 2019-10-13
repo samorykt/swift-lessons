@@ -1,13 +1,5 @@
 import Cocoa
 
-/*func thisNumberIsEven(_ userNumber: Int) -> Bool {
-    if (userNumber % 2 == 0) {
-        return true
-    } else {
-        return false
-    }
-}
-*/
 func thisNumberIsEven(_ userNumber: Int) -> Bool {
     return (userNumber % 2 == 0)
 }
