@@ -1,2 +1,2 @@
 # swift-lessons
-обучение программированию iOS
+обучение на программиста iOS #GeekBrains.Ru
